@@ -24,3 +24,4 @@ In here, the detailed data of the Summer Olympics is read from a csv file and th
 
 ## Tools used:
 For Data Analysis: Pandas
+Python 3.7
