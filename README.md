@@ -1,4 +1,4 @@
-# ETG-Summer-Olympics-Data-Analysis
+# Summer Olympics Data Analysis
 
 ## Introduction:
 A project on Summer Olympics Data Analysis.
